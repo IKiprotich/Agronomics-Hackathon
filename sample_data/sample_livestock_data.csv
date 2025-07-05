@@ -1,0 +1,241 @@
+county,livestock,population,productivity
+Nairobi,Indigenous cattle,8812,0.72
+Nairobi,Exotic cattle,1586,1.29
+Nairobi,Goats,2710,0.75
+Nairobi,Sheep,928,1.02
+Nairobi,Indigenous Chicken,723,0.83
+Nairobi,Exotic Chicken,1324,1.23
+Nairobi,Pigs,115,1.09
+Nairobi,Donkeys,158,1.36
+Nairobi,Camels,416,1.15
+Nairobi,Rabbits,169,1.0
+Nairobi,Ducks,699,0.85
+Nairobi,Turkeys,80,0.75
+Kiambu,Indigenous cattle,17964,0.67
+Kiambu,Exotic cattle,449,0.86
+Kiambu,Goats,1271,0.82
+Kiambu,Sheep,2473,1.24
+Kiambu,Indigenous Chicken,839,0.6
+Kiambu,Exotic Chicken,4114,1.18
+Kiambu,Pigs,105,1.29
+Kiambu,Donkeys,286,0.65
+Kiambu,Camels,933,1.31
+Kiambu,Rabbits,2107,1.17
+Kiambu,Ducks,646,1.02
+Kiambu,Turkeys,2275,0.69
+Nakuru,Indigenous cattle,1336,1.33
+Nakuru,Exotic cattle,99,1.2
+Nakuru,Goats,449,1.34
+Nakuru,Sheep,1259,1.3
+Nakuru,Indigenous Chicken,3831,1.25
+Nakuru,Exotic Chicken,4308,0.69
+Nakuru,Pigs,400,0.61
+Nakuru,Donkeys,639,0.78
+Nakuru,Camels,133,1.02
+Nakuru,Rabbits,954,1.38
+Nakuru,Ducks,33,0.83
+Nakuru,Turkeys,156,1.0
+Meru,Indigenous cattle,714,0.72
+Meru,Exotic cattle,2493,0.79
+Meru,Goats,14018,0.89
+Meru,Sheep,688,1.03
+Meru,Indigenous Chicken,549,0.63
+Meru,Exotic Chicken,956,0.61
+Meru,Pigs,69,1.15
+Meru,Donkeys,1129,0.71
+Meru,Camels,737,1.25
+Meru,Rabbits,81,0.79
+Meru,Ducks,381,0.87
+Meru,Turkeys,1427,1.32
+Kisumu,Indigenous cattle,3050,0.73
+Kisumu,Exotic cattle,2797,0.61
+Kisumu,Goats,15377,1.12
+Kisumu,Sheep,1454,0.79
+Kisumu,Indigenous Chicken,10072,1.13
+Kisumu,Exotic Chicken,1245,0.89
+Kisumu,Pigs,200,1.31
+Kisumu,Donkeys,1196,1.0
+Kisumu,Camels,1310,0.82
+Kisumu,Rabbits,43,0.74
+Kisumu,Ducks,796,0.61
+Kisumu,Turkeys,2052,1.37
+Eldoret,Indigenous cattle,2829,1.28
+Eldoret,Exotic cattle,135,1.05
+Eldoret,Goats,2334,1.09
+Eldoret,Sheep,1623,1.01
+Eldoret,Indigenous Chicken,24305,0.89
+Eldoret,Exotic Chicken,3291,1.25
+Eldoret,Pigs,2190,1.24
+Eldoret,Donkeys,220367,1.24
+Eldoret,Camels,192,1.06
+Eldoret,Rabbits,98,1.03
+Eldoret,Ducks,170,0.7
+Eldoret,Turkeys,3116,0.77
+Mombasa,Indigenous cattle,2504,1.03
+Mombasa,Exotic cattle,969,1.38
+Mombasa,Goats,1305,0.95
+Mombasa,Sheep,585,1.37
+Mombasa,Indigenous Chicken,1453,0.73
+Mombasa,Exotic Chicken,597,1.17
+Mombasa,Pigs,10796,0.94
+Mombasa,Donkeys,1171,1.21
+Mombasa,Camels,156,0.98
+Mombasa,Rabbits,596,0.98
+Mombasa,Ducks,2591,1.11
+Mombasa,Turkeys,15,1.1
+Nyeri,Indigenous cattle,1438,0.66
+Nyeri,Exotic cattle,1275,1.07
+Nyeri,Goats,40822,0.97
+Nyeri,Sheep,562,0.91
+Nyeri,Indigenous Chicken,11351,0.66
+Nyeri,Exotic Chicken,666,0.62
+Nyeri,Pigs,907,1.1
+Nyeri,Donkeys,315,1.24
+Nyeri,Camels,653,1.39
+Nyeri,Rabbits,880,1.22
+Nyeri,Ducks,366,1.2
+Nyeri,Turkeys,2001,1.32
+Kakamega,Indigenous cattle,10387,0.91
+Kakamega,Exotic cattle,359,0.67
+Kakamega,Goats,4092,1.11
+Kakamega,Sheep,1675,0.86
+Kakamega,Indigenous Chicken,11394,0.67
+Kakamega,Exotic Chicken,1307,1.04
+Kakamega,Pigs,170,0.71
+Kakamega,Donkeys,444,0.68
+Kakamega,Camels,105,0.67
+Kakamega,Rabbits,987,0.9
+Kakamega,Ducks,334,1.22
+Kakamega,Turkeys,338,1.33
+Kisii,Indigenous cattle,1415,0.65
+Kisii,Exotic cattle,254,1.12
+Kisii,Goats,4445,0.83
+Kisii,Sheep,2106,1.37
+Kisii,Indigenous Chicken,1838,0.66
+Kisii,Exotic Chicken,2025,1.02
+Kisii,Pigs,16702,1.07
+Kisii,Donkeys,127,0.82
+Kisii,Camels,28689,0.82
+Kisii,Rabbits,71,0.88
+Kisii,Ducks,502,0.85
+Kisii,Turkeys,13421,0.73
+Machakos,Indigenous cattle,1494,1.35
+Machakos,Exotic cattle,6615,0.62
+Machakos,Goats,470,1.38
+Machakos,Sheep,9841,0.97
+Machakos,Indigenous Chicken,2332,1.22
+Machakos,Exotic Chicken,2956,0.8
+Machakos,Pigs,324,0.78
+Machakos,Donkeys,1407,0.89
+Machakos,Camels,2387,1.02
+Machakos,Rabbits,882,1.05
+Machakos,Ducks,1718,1.16
+Machakos,Turkeys,1324,0.61
+Kitui,Indigenous cattle,703,1.32
+Kitui,Exotic cattle,129,1.23
+Kitui,Goats,421,0.97
+Kitui,Sheep,2024,0.86
+Kitui,Indigenous Chicken,4716,0.75
+Kitui,Exotic Chicken,531,0.98
+Kitui,Pigs,175,0.74
+Kitui,Donkeys,34,0.97
+Kitui,Camels,4322,0.63
+Kitui,Rabbits,795,0.67
+Kitui,Ducks,864,1.24
+Kitui,Turkeys,311,0.77
+Embu,Indigenous cattle,442,0.97
+Embu,Exotic cattle,3626,0.8
+Embu,Goats,253113,0.69
+Embu,Sheep,3679,0.79
+Embu,Indigenous Chicken,912,0.7
+Embu,Exotic Chicken,737,1.14
+Embu,Pigs,742,1.07
+Embu,Donkeys,161,0.7
+Embu,Camels,1092,0.88
+Embu,Rabbits,15464,0.79
+Embu,Ducks,46,0.75
+Embu,Turkeys,102,1.32
+Murang'a,Indigenous cattle,1843,0.69
+Murang'a,Exotic cattle,1496,1.29
+Murang'a,Goats,6960,1.34
+Murang'a,Sheep,551,0.82
+Murang'a,Indigenous Chicken,1317,1.01
+Murang'a,Exotic Chicken,78,1.09
+Murang'a,Pigs,312,1.03
+Murang'a,Donkeys,21,0.71
+Murang'a,Camels,1108,0.8
+Murang'a,Rabbits,312,1.08
+Murang'a,Ducks,963,1.26
+Murang'a,Turkeys,360,1.18
+Kirinyaga,Indigenous cattle,4270,1.06
+Kirinyaga,Exotic cattle,1039,1.24
+Kirinyaga,Goats,2041,1.13
+Kirinyaga,Sheep,735,1.3
+Kirinyaga,Indigenous Chicken,328,0.97
+Kirinyaga,Exotic Chicken,405,1.0
+Kirinyaga,Pigs,1361,1.33
+Kirinyaga,Donkeys,12,1.35
+Kirinyaga,Camels,765,1.1
+Kirinyaga,Rabbits,364,1.23
+Kirinyaga,Ducks,634,0.63
+Kirinyaga,Turkeys,178,1.3
+Nyandarua,Indigenous cattle,2511,1.24
+Nyandarua,Exotic cattle,166,1.18
+Nyandarua,Goats,8514,0.8
+Nyandarua,Sheep,4334,1.33
+Nyandarua,Indigenous Chicken,7607,0.72
+Nyandarua,Exotic Chicken,1352,1.09
+Nyandarua,Pigs,215,1.16
+Nyandarua,Donkeys,2702,0.72
+Nyandarua,Camels,6234,1.35
+Nyandarua,Rabbits,333,0.69
+Nyandarua,Ducks,1159,1.07
+Nyandarua,Turkeys,1130,0.87
+Laikipia,Indigenous cattle,743,1.03
+Laikipia,Exotic cattle,330,0.88
+Laikipia,Goats,3229,0.71
+Laikipia,Sheep,146,0.94
+Laikipia,Indigenous Chicken,43858,0.61
+Laikipia,Exotic Chicken,3275,1.37
+Laikipia,Pigs,9680,0.65
+Laikipia,Donkeys,492,1.32
+Laikipia,Camels,172,1.05
+Laikipia,Rabbits,93,0.96
+Laikipia,Ducks,2931,0.72
+Laikipia,Turkeys,14,1.36
+Kericho,Indigenous cattle,566,0.62
+Kericho,Exotic cattle,4348,1.13
+Kericho,Goats,1770,0.62
+Kericho,Sheep,219,0.74
+Kericho,Indigenous Chicken,2324,1.18
+Kericho,Exotic Chicken,1759,0.92
+Kericho,Pigs,994,0.61
+Kericho,Donkeys,79,0.62
+Kericho,Camels,1063,1.25
+Kericho,Rabbits,204,0.9
+Kericho,Ducks,59,1.04
+Kericho,Turkeys,4641,1.36
+Bomet,Indigenous cattle,2914,1.32
+Bomet,Exotic cattle,5075,0.62
+Bomet,Goats,466,0.71
+Bomet,Sheep,5885,1.02
+Bomet,Indigenous Chicken,1723,0.82
+Bomet,Exotic Chicken,589,1.26
+Bomet,Pigs,197,1.08
+Bomet,Donkeys,1702,1.33
+Bomet,Camels,141,0.73
+Bomet,Rabbits,380,1.08
+Bomet,Ducks,64,1.18
+Bomet,Turkeys,45,0.98
+Narok,Indigenous cattle,2183,0.62
+Narok,Exotic cattle,1804,0.64
+Narok,Goats,14852,0.69
+Narok,Sheep,285,1.0
+Narok,Indigenous Chicken,9579,1.24
+Narok,Exotic Chicken,714,1.07
+Narok,Pigs,195,0.75
+Narok,Donkeys,1716,1.19
+Narok,Camels,2729,0.8
+Narok,Rabbits,655,1.39
+Narok,Ducks,789,0.74
+Narok,Turkeys,986,0.63
